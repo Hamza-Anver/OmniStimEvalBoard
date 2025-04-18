@@ -1,3 +1,6 @@
 [submodule "OmniStimEvalBoard-Hardware"]
 	path = OmniStimEvalBoard-Hardware
 	url = https://github.com/Hamza-Anver/OmniStimEvalBoard-Hardware
+[submodule "OmniStimEvalBoard-Controller"]
+	path = OmniStimEvalBoard-Controller
+	url = https://github.com/Hamza-Anver/OmniStimEvalBoard-Controller
